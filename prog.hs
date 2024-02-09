@@ -78,7 +78,6 @@ writePoints xs ys = do
 
 main :: IO ()
 main = do
-    putStrLn "Лабораторная работа №7"
     putStrLn "Интерполяция методом Ньютона"
 
     -- Чтение точек из файла
